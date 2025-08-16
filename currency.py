@@ -1,4 +1,3 @@
-# Write code below 💖
 a = float(input("What do you have left in pesos? "))
 a_new = a/4108.67
 b = float(input("What do you have left in soles? "))
